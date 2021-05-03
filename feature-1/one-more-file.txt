@@ -1,1 +1,1 @@
-Another file, created in the remote repository
+Another file, created in the remote repository and modified in feature-2 branch
