@@ -1,3 +1,6 @@
 This file was modified in feature-2 branch
 
 Just another file commited in the feature 1 branch
+
+
+Next modification in feature-2 branch
